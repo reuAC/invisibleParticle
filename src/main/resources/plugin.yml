@@ -1,0 +1,3 @@
+name: invisibleParticle
+version: '${project.version}'
+main: net.reuac.invisibleparticle.InvisibleParticle
