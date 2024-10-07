@@ -1,6 +1,6 @@
 # invisibleParticle
 Minecraftサーバーで特定の透明なプレイヤーの頭に特定のパーティクル効果を付与する  
-[ 中文 | [English](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README_EN.md) | [日本語](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README_JP.md) ]
+[ [中文](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README.md) | [English](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README_EN.md) | 日本語 ]
 
 ## 紹介
 このプラグインはSpigot 1.8以上に対応しており、インビジブルポーションの効果を持つプレイヤーが移動する際に、頭の上に持続的にパーティクル効果が表示されます。  

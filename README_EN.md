@@ -1,6 +1,6 @@
 # invisibleParticle
 To make invisible players have a specific particle effect on their heads in Minecraft.  
-[ 中文 | [English](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README_EN.md) | [日本語](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README_JP.md) ]
+[ [中文](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README.md) | English | [日本語](https://github.com/reuAC/invisibleParticle/blob/re_uAC/README_JP.md) ]
 
 ## Introduction
 This plugin is compatible with Spigot 1.8 and above. After installation, players with the invisibility potion effect will continuously have particle effects appear above their heads while moving.  
